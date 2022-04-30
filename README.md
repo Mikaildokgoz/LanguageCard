@@ -1,6 +1,5 @@
-
-
-####Check out my react project that link https://mikail-language-cards.netlify.app ######
+Link
+____________>>> https://mikail-language-cards.netlify.app 
 
 
 
